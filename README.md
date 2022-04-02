@@ -1,17 +1,18 @@
 ## INFO
-development with this video https://www.youtube.com/watch?v=iGBERMGMIvc
+developed together with the guide, video: 'Build and Deploy a Premium Next JS React Website | Landing Page, Business Website, Portfolio'. JavaScript Mastery 
 
 ## ADVANCE
 project structure 10/10
 Responsive header
 banner section
 key feacture section
-service section 5/10
+service section 10/10
+feature section  (missed red format subtitle)
 
 ## WORKS
-missed service section
-feature section
-core feature section
+core feature section ?
+wokflow section
+package section
 
 
 
