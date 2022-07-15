@@ -13,15 +13,3 @@ feature section  (missed red format subtitle)
 core feature section ?
 wokflow section
 package section
-
-
-
-                                 _.-_
-                             __.'  o "-.
-                    ___----""       ,,,'
-               __--"             _-_ ^^;
-       ____--""  ___         _-\"   `""
-..--===-------"""   "(   __-"  ,}
-                    .'_/"\
-                  .'/"  `\`._
-                  "-_c    "  '     jgcw
